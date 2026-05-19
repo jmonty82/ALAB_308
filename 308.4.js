@@ -46,4 +46,5 @@ console.log(objectsArr)
 
 // Once complete, be sure to submit your work according to the submission instructions at the beginning of this document.
 
-console.log(objectsArr.toString());
+let objectsArr.arr2
+console.log();
